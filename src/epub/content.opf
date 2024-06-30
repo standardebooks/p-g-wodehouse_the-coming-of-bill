@@ -53,7 +53,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">W. Beckwith McInnes</dc:contributor>
 		<meta property="file-as" refines="#artist">McInnes, W. Beckwith</meta>
-		<meta property="full-name" refines="#artist">William Beckwith McInnes</meta>
+		<meta property="se:name.person.full-name" refines="#artist">William Beckwith McInnes</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Beckwith_McInnes</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2019060169</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
