@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/p-g-wodehouse/the-coming-of-bill</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-06-30T00:54:16Z</dc:date>
+		<meta property="dcterms:modified">2024-06-30T00:54:16Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,21 +28,22 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Coming of Bill</dc:title>
 		<meta property="file-as" refines="#title">Coming of Bill, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The White Hope</meta>
+		<meta property="dcterms:alternative" refines="#title">Their Mutual Child</meta>
 		<dc:subject id="subject-1">Humorous stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062975</meta>
 		<meta property="se:subject">Satire</meta>
-		<dc:description id="description">A domineering author of books on eugenics and hygiene makes a match between her niece and an wealthy, idle English artist and intends that they raise their son according to her principles, regardless of the consequences.</dc:description>
+		<dc:description id="description">A domineering author of books on eugenics and hygiene makes a match between her niece and an idle artist, intending them to raise a son according to her principles, regardless of the consequences.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Superb physical specimen and independently wealthy Englishman Kirk Winfield lives the bohemian life of an aspiring painter in New York, sparring with his prizefighting friend Steve and daubing at canvases, until his life is upended by a chance encounter with Lora Delane Porter, an autocratic author of books on eugenics and hygiene. She determines at once that he will marry her niece Ruth Bannister, the daughter of a Wall Street business magnate, and that their child will be raised according to her own unsparing principles. When their son Bill arrives, Kirk and Ruth must discover a way to navigate their new life together against the currents of her family’s wealth, his artistic aspirations, and the meddling of Lora Delane Porter.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;Sir Pelham Grenville Wodehouse&lt;/a&gt; was an English author and one of the most widely read humorists of the twentieth century. After leaving school, he was employed by a bank but disliked the work and turned to writing in his spare time. His early writing mostly consisted of school stories, but he later switched to writing comic fiction, creating several regular characters who became familiar to the public over the years, such as Bertie Wooster and Jeeves.&lt;/p&gt;
+			&lt;p&gt;Superb physical specimen and independently wealthy Englishman Kirk Winfield lives the bohemian life of an aspiring painter in New York, sparring with his prizefighting friend Steve and daubing at canvases, until his life is upended by a chance encounter with Lora Delane Porter, an autocratic author of books on eugenics and hygiene. She determines at once that he will marry her niece Ruth Bannister, the daughter of a Wall Street business magnate, and that their child will be raised according to her own unsparing principles. When their son Bill arrives, Kirk and Ruth must discover a way to navigate their new life together against the currents of her family’s wealth, his artistic aspirations, and Lora’s meddling.&lt;/p&gt;
 			&lt;p&gt;Along with &lt;i&gt;The Little Nugget&lt;/i&gt;, written around the same time, this is one of Wodehouse’s few non-comedy novels, written for serial publication at the behest of &lt;i&gt;Munsey’s Magazine&lt;/i&gt; editor Bob Davis and published there first as &lt;i&gt;The White Hope&lt;/i&gt;. In the United States it was published as &lt;i&gt;Their Mutual Child&lt;/i&gt;, and in the United Kingdom with its present title.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6880</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.247933</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">86412</meta>
+		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Coming_of_Bill</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-coming-of-bill</meta>
 		<dc:creator id="author">P. G. Wodehouse</dc:creator>
@@ -71,6 +72,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
