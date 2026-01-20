@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/6880</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.247933</dc:source>
-		<meta property="se:word-count">86412</meta>
+		<meta property="se:word-count">84628</meta>
 		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Coming_of_Bill</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_the-coming-of-bill</meta>
